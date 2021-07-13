@@ -1,8 +1,9 @@
 package com.example;
 
-public class AlanSastre {
+public class JordiCutanda {
 
 	public static void main(String[] args) {
-		System.out.println("alan sastre");
+		System.out.println("Heelo World!");
 	}
+
 }
