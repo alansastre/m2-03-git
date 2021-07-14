@@ -4,5 +4,12 @@ public class AlanSastre {
 
 	public static void main(String[] args) {
 		System.out.println("My mensaje cambiado");
+
+		System.out.println("alan sastre");
+		System.out.println("Cambios desde rama ManuelMM");
+
+		System.out.println("alan sastre prueba desde rama alansastre");
+		
+		System.out.println("fin ddel desarrollo");
 	}
 }
