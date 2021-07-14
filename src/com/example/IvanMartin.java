@@ -6,5 +6,7 @@ public class IvanMartin {
 	System.out.println("Commit desde la rama Iván Martín Blanco");
 	
 	System.out.println("Este es un cambio para mergear después del descanso");
+	
+	System.out.println("Cambio para merge");
 }
 }
