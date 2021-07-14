@@ -6,6 +6,7 @@ public class Manuel {
 		
 		System.out.println("Hola Mundo");
 		
+		
 	}
 
 }
