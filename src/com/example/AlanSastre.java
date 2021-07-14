@@ -14,6 +14,11 @@ public class AlanSastre {
 
 		
 		System.out.println("Commit Juan Diego, prueba");
-
+		
+		System.out.println("Created branch develop");
+		
+		System.out.println("Creacion clases interfaces controlador, servicio de Vehiculo Clasico");
+		
+		System.out.println("Preparativos para la v1.0");
 	}
 }
