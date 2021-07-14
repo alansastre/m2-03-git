@@ -12,6 +12,12 @@ public class JuandieRuiz {
 		System.out.println("el valor es: " + numero);
 
 		System.out.println("Creando conflictoasdfasdf");
-
+		
+<<<<<<< HEAD
+		System.out.println("MERGE DESDE MI RAMA");
+=======
+		System.out.println("Trabajando sobre rama JuanDiego");
+		
+>>>>>>> refs/heads/JuanDiegoGomezRuiz
 	}
 }
