@@ -22,9 +22,10 @@ public class AlanSastre {
 		System.out.println("Preparativos para la v1.0");
 		
 		System.out.println("Cambios sinterminar, terminado!");
-		
+
 		System.out.println("cambios1");
 		
 		System.out.println("cambios2");
+
 	}
 }
