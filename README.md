@@ -2,14 +2,27 @@
 0. Dudas
 1. Proyectos
 2. Git
-	* Crear proyecto
-	* Inicializar git
-	* Añadir archivo gitignore (gitignore.io)
-	* Registrar cambios con commit
-	* Subir cambios a GitHub
-	* Ramas
-	* Gitflow
-	* Deshacer cambios
-	* Stash
+	* Crear proyecto [OK]
+	* Inicializar git: Team > Share [OK]
+	* Añadir archivo gitignore (gitignore.io) [OK]
+	* Registrar cambios con commit [OK]
+	* Subir cambios a GitHub (Push, Crear primero el repositorio) [OK]
+	* Ramas (manual)
+	* Gitflow (Instalar extensión Gitflow nightly): Automatizar gestión ramas:
+		* develop
+		* master
+		* feature/....
+		* hotfix/...
+		* release/....
+	* Deshacer cambios: 
+		* Git revert
+		* Git reset
+	* Stash:
+		* Almacenar cambios provisionales sin hacer commit para volver a ellos
 	* Cherry pick
+		* Fusionar commits concretos de una rama en otra
+	* Agregar más remotos:
+		* gitlab.com
+	* Pull Request
+		
 3. JUnit 5
