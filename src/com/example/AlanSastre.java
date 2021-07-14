@@ -10,5 +10,9 @@ public class AlanSastre {
 		// ... 
 		
 		System.out.println("Filtro por color");
+		
+		// parte 2 de filtros_ filtro por numero puertas
+		
+		System.out.println("Cambios de filtro de puertas");
 	}
 }
