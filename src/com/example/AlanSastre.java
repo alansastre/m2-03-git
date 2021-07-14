@@ -19,7 +19,16 @@ public class AlanSastre {
 		
 		System.out.println("Creacion clases interfaces controlador, servicio de Vehiculo Clasico");
 
+		System.out.println("Cambios desde rama ManuelMM");
+
+		System.out.println("alan sastre prueba desde rama alansastre");
+		
+		System.out.println("fin ddel desarrollo");
+		
+		System.out.println("Commit Juan Diego, prueba");
+
 		System.out.println("Preparativos para la v1.0");
+
 		
 		System.out.println("Cambios sinterminar, terminado!");
 
