@@ -18,11 +18,7 @@ public class AlanSastre {
 		System.out.println("Created branch develop");
 		
 		System.out.println("Creacion clases interfaces controlador, servicio de Vehiculo Clasico");
-<<<<<<< HEAD
 
-=======
-		
->>>>>>> branch 'develop' of https://github.com/alansastre/m2-03-git
 		System.out.println("Preparativos para la v1.0");
 	}
 }
