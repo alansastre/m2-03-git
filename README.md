@@ -23,5 +23,6 @@
 		* Fusionar commits concretos de una rama en otra
 	* Agregar más remotos:
 		* gitlab.com
+	* Pull Request
 		
 3. JUnit 5
