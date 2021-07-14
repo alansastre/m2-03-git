@@ -12,6 +12,7 @@ public class JuandieRuiz {
 		System.out.println("el valor es: " + numero);
 
 		System.out.println("Creando conflictoasdfasdf");
-
+		
+		System.out.println("MERGE DESDE MI RAMA");
 	}
 }
