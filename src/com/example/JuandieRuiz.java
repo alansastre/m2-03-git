@@ -13,20 +13,8 @@ public class JuandieRuiz {
 
 		System.out.println("Creando conflictoasdfasdf");
 		
-<<<<<<< master
 
 		System.out.println("MERGE DESDE MI RAMA");
-
 		System.out.println("Trabajando sobre rama JuanDiego");
-		
-
-=======
-<<<<<<< HEAD
-		System.out.println("MERGE DESDE MI RAMA");
-=======
-		System.out.println("Trabajando sobre rama JuanDiego");
-		
->>>>>>> refs/heads/JuanDiegoGomezRuiz
->>>>>>> 11c205d Merge branch 'master' of https://github.com/alansastre/m2-03-git
 	}
 }
